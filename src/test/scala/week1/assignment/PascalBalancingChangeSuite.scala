@@ -5,7 +5,7 @@ import week1.assignment.PascalBalancingChange._
 
 /**
   * @author tasha.jeon
-  * @since 2016. 2. 10. 
+  * @since 2016. 2. 10.
   */
 class PascalBalancingChangeSuite extends FunSuite {
 
